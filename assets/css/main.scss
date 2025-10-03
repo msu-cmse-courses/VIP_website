@@ -24,17 +24,12 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-// /* Light (day) mode override */
-// [data-theme="light"] .navbar-light .navbar-nav .nav-link.active,
-// [data-theme="light"] .navbar-light .navbar-nav .nav-link.show,
-// [data-theme="light"] .navbar-light .navbar-nav .nav-link:hover,
-// [data-theme="light"] .navbar-light .navbar-nav .nav-link:focus {
-//   color: #18453B !important;  /* MSU Green */
-// }
-
-// [data-theme="light"] .navbar-light .navbar-nav .nav-link.active::after {
-//   background-color: #18453B !important;
-// }
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus {
+  color: #18453B !important;  /* MSU Green */
+}
 /* Override Bootstrap primary and purple with MSU green */
 :root {
   --bs-primary: #18453B !important;
