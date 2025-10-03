@@ -24,15 +24,20 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-/* Light (day) mode override */
-[data-theme="light"] .navbar-light .navbar-nav .nav-link.active,
-[data-theme="light"] .navbar-light .navbar-nav .nav-link.show,
-[data-theme="light"] .navbar-light .navbar-nav .nav-link:hover,
-[data-theme="light"] .navbar-light .navbar-nav .nav-link:focus {
-  color: #18453B !important;  /* MSU Green */
-}
+// /* Light (day) mode override */
+// [data-theme="light"] .navbar-light .navbar-nav .nav-link.active,
+// [data-theme="light"] .navbar-light .navbar-nav .nav-link.show,
+// [data-theme="light"] .navbar-light .navbar-nav .nav-link:hover,
+// [data-theme="light"] .navbar-light .navbar-nav .nav-link:focus {
+//   color: #18453B !important;  /* MSU Green */
+// }
 
-[data-theme="light"] .navbar-light .navbar-nav .nav-link.active::after {
-  background-color: #18453B !important;
+// [data-theme="light"] .navbar-light .navbar-nav .nav-link.active::after {
+//   background-color: #18453B !important;
+// }
+/* Override Bootstrap primary and purple with MSU green */
+:root {
+  --bs-primary: #18453B !important;
+  --purple: #18453B !important;   /* just in case */
 }
 
