@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: For Students
 nav: false
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: syllabus
+    permalink: /syllabus/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: peer evaluation
+    permalink: /peer_evaluation/
 ---
