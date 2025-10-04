@@ -34,25 +34,3 @@ $max-content-width: {{ site.max_width }};
   --purple: #18453B !important;
 }
 
-.msu-banner {
-  background: #18453B; /* MSU Green */
-  color: white;
-  display: flex;
-  align-items: center;
-  padding: 0.3rem 1rem;   /* thinner padding */
-  font-family: 'Roboto', sans-serif;
-  height: 42px;          /* slim height */
-}
-.msu-banner-title {
-  font-size: 1rem;       /* smaller text */
-  font-weight: 600;
-  line-height: 1;
-}
-
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-  .msu-banner {
-    background: #0f2e26; /* darker MSU green */
-  }
-}
-
