@@ -10,6 +10,7 @@ children:
   - title: divider
   - title: How to Apply
     permalink: /apply/
-  # - title: divider
-  #   permalink: /books/
+  - title: divider
+  - title: Peer Evaluation
+    permalink: /peer_evaluation/
 ---
