@@ -15,7 +15,6 @@ permalink: /team-name/
 description: "Team description"
 ---
 
-<div class="team-description" style="border-left: 6px solid #18453B; padding-left: 1rem;">
 
 # Team Name  
 
@@ -74,4 +73,3 @@ Explain useful coursework, background, or skills that would prepare students to 
 
 ---
 
-</div>
