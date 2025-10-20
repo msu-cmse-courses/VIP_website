@@ -53,3 +53,12 @@ $max-content-width: {{ site.max_width }};
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
+.msu-banner-title {
+  color: #ffffff !important;    /* pure white text */
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;    /* optional MSU aesthetic */
+}
+
+
