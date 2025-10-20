@@ -38,7 +38,7 @@ body.sticky-bottom-footer {
   }
 }
 
-@media (prefers-color-scheme: light) {
+@media (color-scheme: light) {
   body {
     h1,
     h2,
@@ -52,7 +52,7 @@ body.sticky-bottom-footer {
 }
 
 /* Default or dark mode headings */
-@media (prefers-color-scheme: dark) {
+@media (color-scheme: dark) {
   body {
     h1,
     h2,
