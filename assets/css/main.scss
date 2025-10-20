@@ -34,6 +34,10 @@ $max-content-width: {{ site.max_width }};
   --global-hover-color: #18453B !important;
   --purple: #18453B !important;
 }
+body.fixed-top-nav {
+  padding-top: 0 !important;
+}
+
 
 .msu-banner {
   position: fixed;
