@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Team Name"
-permalink: /team-name/
-description: "Team description"
+title: "SEE-Insight"
+permalink: /see-insight/
+description: "Lab led by Dirk Colbry"
 img: assets/img/see_insight.jpg
 importance: 1
 
@@ -10,11 +10,10 @@ author: "Dirk Colbry"
 ---
 
 
-# Team Name  
 
----
 
 ## Timeline & Partners  
+
 **Year(s):** YYYY – Present   
 **Partners / Sponsors:** [List organizations or supporters]
 
