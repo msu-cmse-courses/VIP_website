@@ -10,6 +10,8 @@ author: "Dirk Colbry"
 ---
 
 <div class="team-description" style="border-left: 6px solid #18453B; padding-left: 1rem;">
+{{ content | markdownify }}
+</div>
 
 # Team Name  
 
@@ -64,8 +66,3 @@ Explain useful coursework, background, or skills that would prepare students to 
 
 ## Partner(s) and Sponsor(s)  
 - **SDG ##:** [Goal Name]  
-
----
-
-
-</div>
