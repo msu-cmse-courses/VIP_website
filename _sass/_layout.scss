@@ -14,7 +14,6 @@ body {
   h5,
   h6 {
     scroll-margin-top: 66px;
-    color: #18453B;
   }
 }
 
@@ -36,6 +35,33 @@ body.sticky-bottom-footer {
 .profile {
   img {
     width: 100%;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: #18453B; /* MSU Green */
+    }
+  }
+}
+
+/* Default or dark mode headings */
+@media (prefers-color-scheme: dark) {
+  body {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--global-heading-color, #ffffff); /* or leave as white */
+    }
   }
 }
 
