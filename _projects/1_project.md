@@ -1,23 +1,17 @@
 ---
 layout: page
-title: SEE Insight Lab
-description: By Dirk Colbry
-img: assets/img/see_insight.jpg
-importance: 1
-#category: work
-related_publications: true
----
----
-layout: page
 title: "Team Name"
 permalink: /team-name/
 description: "Team description"
+img: assets/img/see_insight.jpg
+importance: 1
+related_publications: true
+author: "Dirk Colbry"
 ---
 
 <div class="team-description" style="border-left: 6px solid #18453B; padding-left: 1rem;">
 
 # Team Name  
-
 
 ---
 
@@ -69,9 +63,9 @@ Explain useful coursework, background, or skills that would prepare students to 
 ---
 
 ## Partner(s) and Sponsor(s)  
-- SDG ##: [Goal Name]  
+- **SDG ##:** [Goal Name]  
 
 ---
 
-</div>
 
+</div>
