@@ -61,4 +61,7 @@ $max-content-width: {{ site.max_width }};
   text-transform: uppercase;    /* optional MSU aesthetic */
 }
 
+.navbar {
+  overflow: visible !important;
+}
 
