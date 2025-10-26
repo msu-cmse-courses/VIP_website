@@ -61,7 +61,9 @@ $max-content-width: {{ site.max_width }};
   text-transform: uppercase;    /* optional MSU aesthetic */
 }
 
-.navbar {
-  overflow: visible !important;
+.dropdown-menu {
+  position: absolute !important;
+  z-index: 10000 !important;
+  background-color: white;
 }
 

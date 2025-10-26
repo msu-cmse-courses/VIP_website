@@ -6,7 +6,6 @@ nav: false
 #collection: books
 ---
 
-# How to Apply to MSU VIP
 
 The **Vertically Integrated Projects (VIP) Program at Michigan State University** welcomes motivated undergraduate and graduate students from all majors to join faculty-led research teams.  
 
