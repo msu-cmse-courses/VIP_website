@@ -61,26 +61,15 @@ $max-content-width: {{ site.max_width }};
   text-transform: uppercase;    /* optional MSU aesthetic */
 }
 
-.navbar {
-  overflow: visible !important;
-  position: relative !important;
-  z-index: 9999 !important;
-}
+// .navbar {
+//   overflow: visible !important;
+//   position: relative !important;
+//   z-index: 9999 !important;
+// }
 
 .navbar .dropdown-toggle {
   position: relative !important;
   z-index: 10001 !important;
 }
 
-// .navbar .dropdown-menu {
-//   display: block; 
-//   position: absolute !important;
-//   top: 100% !important;
-//   left: 0 !important;
-//   z-index: 10000 !important;
-//   background: #fff !important;
-//   border: 1px solid rgba(0, 0, 0, 0.15);
-//   border-radius: 0.25rem;
-//   pointer-events: auto !important;
-// }
 
