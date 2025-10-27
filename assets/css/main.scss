@@ -72,21 +72,15 @@ $max-content-width: {{ site.max_width }};
   z-index: 10001 !important;
 }
 
-.navbar .dropdown-menu {
-  display: block; 
-  position: absolute !important;
-  top: 100% !important;
-  left: 0 !important;
-  z-index: 10000 !important;
-  background: #fff !important;
-  border: 1px solid rgba(0, 0, 0, 0.15);
-  border-radius: 0.25rem;
-  pointer-events: auto !important;
-}
-
-// .page-content,
-// .wrapper,
-// .container {
-//   position: relative !important;
-//   z-index: 1 !important;
+// .navbar .dropdown-menu {
+//   display: block; 
+//   position: absolute !important;
+//   top: 100% !important;
+//   left: 0 !important;
+//   z-index: 10000 !important;
+//   background: #fff !important;
+//   border: 1px solid rgba(0, 0, 0, 0.15);
+//   border-radius: 0.25rem;
+//   pointer-events: auto !important;
 // }
+
