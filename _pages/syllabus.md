@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /syllabus/
-title: syllabus
+title: Syllabus
 nav: false
 nav_order: 5
 description: syllabus for the VIP course
@@ -56,15 +56,17 @@ By the end of this course, students will:
 ---
 
 
-## Semester Overview
-| Week | Date | Activity/Event |
-|------|------|----------------|
-| Week 1 | Week of Aug 25 | Introductions. Overview of teams’ work. Discussion of semester goals. |
-| Week 2 | Week of Sep 1 | Sub-team selections finalized. Sub-team meeting times finalized. |
-| Week 7 | Week of Oct 6 | Midterm grades due. Web-based peer reviews released. Design notebooks collected for mid-term grading. |
-| Week 10 | Oct 27 | VIP Innovation Showcase (MSU equivalent). |
-| Dead Week | Dec 1 – Dec 8 | Final presentations. Peer reviews due at 4 PM Tuesday. Design notebooks collected for final grading. |
-| Finals Week | Dec 10 – Dec 17 | No final exam. No assignments. |
+# Semester Overview
+
+| **Week**      | **Activity / Event**                                                                 |
+|----------------|--------------------------------------------------------------------------------------|
+| Week 1         | Introductions. Overview of teams’ work. Discussion of semester goals.               |
+| Week 2         | Sub-team selections finalized. Sub-team meeting times finalized.                    |
+| Week 7         | Midterm grades due. Web-based peer reviews released. Design notebooks collected for mid-term grading. |
+| Week 10        | VIP Innovation Showcase (MSU equivalent).                                           |
+| Dead Week      | Final presentations. Peer reviews due at 4 PM Tuesday. Design notebooks collected for final grading. |
+| Finals Week    | No final exam. No assignments.                                                      |
+
 
 ---
 
