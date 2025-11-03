@@ -51,7 +51,7 @@ ninja.data = [{
               window.location.href = "/VIP_website/see-insight/";
             },},{id: "projects-duk-lab",
           title: 'Duk Lab',
-          description: "by",
+          description: "by Jeff Siarto",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/projects/7_project/";
             },},{
