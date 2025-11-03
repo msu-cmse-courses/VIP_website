@@ -88,6 +88,5 @@ Useful preparation might include:
 ## Partner(s) and Sponsor(s)  
 - **Jeff Siarto** - Director UX Design, Department of Media and Information
 - **Dr. John Mitchell** - Henry Ford Health
-- **Dr. Addie Thomson** - Plant and Microbial Sciences
+- **Dr. Addie Thomson** - Department of Plant and Microbial Sciences
 - **Dr. Nate Haut** — Department of Computational Mathematics, Science and Engineering, Michigan State University
-- 

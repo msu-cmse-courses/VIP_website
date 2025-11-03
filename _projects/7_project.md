@@ -5,6 +5,7 @@ description: by
 img: assets/img/4.jpg
 importance: 1
 #category: work
+img: assets/img/duk.png
 related_publications: true
 ---
 
