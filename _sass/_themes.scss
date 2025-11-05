@@ -74,9 +74,6 @@
     width: $back-to-top-width;
     z-index: $back-to-top-z-index;
   }
-  h1, h2, h3, h4, h5, h6 {
-    color: #18453B;
-  }
 }
 
 html[data-theme="dark"] {
@@ -144,9 +141,6 @@ html[data-theme-setting="dark"] {
   #back-to-top {
     color: var(--global-back-to-top-text-color);
     background: var(--global-back-to-top-bg-color);
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: var(--global-text-color);
   }
 }
 

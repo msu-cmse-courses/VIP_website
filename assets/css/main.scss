@@ -2,7 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-$primary: #18453B;
 
 // Dimensions
 $max-content-width: {{ site.max_width }};
@@ -24,52 +23,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-
-
-
-/* Override Bootstrap primary and purple with MSU green */
-
-:root {
-  --global-theme-color: #18453B !important; /* MSU Green */
-  --global-hover-color: #18453B !important;
-  --purple: #18453B !important;
-}
-
-
-
-.msu-banner {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 60px; /* adjust as needed */
-  background-color: #18453B; /* MSU green */
-  color: white !important;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 9999; /* ensures it's always on top */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
-
-.msu-banner-title {
-  color: #ffffff !important;    /* pure white text */
-  font-size: 1.2rem;
-  font-weight: 600;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;    /* optional MSU aesthetic */
-}
-
-.navbar {
-  overflow: visible !important;
-  position: relative !important;
-  z-index: 9999 !important;
-}
-
-.navbar .dropdown-toggle {
-  position: relative !important;
-  z-index: 10001 !important;
-}
-
-
