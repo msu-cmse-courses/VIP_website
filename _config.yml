@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: VIP 
+title: MSU VIP
 first_name: Dirk
 middle_name: 
 last_name: Colbry
@@ -44,7 +44,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: false
 posts_in_search: false

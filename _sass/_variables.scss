@@ -13,11 +13,11 @@ $blue-color: #0076df !default;
 $blue-color-dark: #00369f !default;
 $cyan-color: #2698ba !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
-$green-color: #00ab37 !default;
-$green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
+$green-color: #008934 !default; // MSU Refresh Green; PANTONE 348 C
+$green-color-lime: #7bbd00 !default; // MSU Lime Green; PANTONE 376 C
+$green-color-dark: #18453b !default; // MSU Spartan Green; PANTONE 567
 $green-color-light: #ddffdd !default;
-$green-color-bright: #11d68b !default;
+$green-color-bright: #0b9a6d !default; // MSU Excellence Green; PANTONE 7724 C
 $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;

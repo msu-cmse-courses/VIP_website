@@ -1,22 +1,15 @@
 ---
 layout: page
-title: Duk Lab
+title: DUX Lab
+permalink: /dux/
 description: "Led by Jeff Siarto"
 importance: 1
 img: assets/img/duk.png
 related_publications: true
 ---
 
----
-layout: page
-title: "Team Name"
-permalink: /team-name/
-description: "Team description"
----
 
-
-# Team Name  
-
+# Design & User Experience Lab
 
 ---
 
