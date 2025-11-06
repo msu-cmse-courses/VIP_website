@@ -49,11 +49,11 @@ ninja.data = [{
           description: "Lab led by Dirk Colbry",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/see-insight/";
-            },},{id: "projects-duk-lab",
-          title: 'Duk Lab',
+            },},{id: "projects-dux-lab",
+          title: 'DUX Lab',
           description: "Led by Jeff Siarto",
           section: "Projects",handler: () => {
-              window.location.href = "/VIP_website/projects/7_project/";
+              window.location.href = "/VIP_website/dux/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
