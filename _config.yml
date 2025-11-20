@@ -13,7 +13,7 @@ footer_text: >
 
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: vip-consortium.org-favicon-32.ico
 
 url: https://colbrydi.github.io # the base hostname & protocol for your site
 baseurl: /VIP_website # the subpath of your site, e.g. /blog/. Leave blank for root
