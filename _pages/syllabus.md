@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /syllabus/
-title: Syllabus
+title: "Syllabus"
 nav: false
 nav_order: 5
-description: syllabus for the VIP course
+description: Syllabus for the VIP course
 toc:
   sidebar: left
 ---
