@@ -46,7 +46,7 @@ ninja.data = [{
               },
             },{id: "projects-see-insight",
           title: 'SEE-Insight',
-          description: "Lab led by Dirk Colbry",
+          description: "Led by Dirk Colbry",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/see-insight/";
             },},{id: "projects-dux-lab",
