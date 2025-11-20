@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-For more information, contact Brian
+Faculty intersted in running their own VIP should contact [Brian Keas](mailto:bkeas@msu.edu) for more information.

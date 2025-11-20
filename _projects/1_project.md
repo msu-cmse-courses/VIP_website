@@ -2,7 +2,7 @@
 layout: page
 title: "SEE-Insight"
 permalink: /see-insight/
-description: "Lab led by Dirk Colbry"
+description: "Led by Dirk Colbry"
 img: assets/img/see_insight.jpg
 importance: 1
 
@@ -38,13 +38,13 @@ Our research consistently revolves around the following themes:
 We also specialize in the following algorithmic areas:  
 - Evaluation Metrics  
 - Generative AI  
-- Genetic Programming  
+- Genetic Programming
+- Scientific Imaging
 
 Technologies used include:  
-- Python and Jupyter Notebooks  
-- Dash and tkinter for GUI development  
-- Open Science Grid (OSG) for distributed computing  
-
+- Git for code development
+- Markdown for documentation
+- Python and Jupyter Notebooks
 
 ---
 
@@ -64,6 +64,8 @@ Technologies used include:
 The SEE-Insight team welcome students from **all academic backgrounds** and levels of experience. We try to promote a collaborative and exploratory environment where curiosity, creativity, and a willingness to learn are the most valuable assets.  
 
 Whether you're passionate about coding, data analysis, scientific research, design, communication, or something entirely different, we believe there's a meaningful project for you on our team.  
+
+During the first semester (Spring 2026), our focus will be on establishing a strong foundation for a long-term VIP team. We seek students who are independent, self-motivated, and comfortable experimenting in a dynamic, evolving environment.
 
 Useful preparation might include:  
 - Interest in scientific exploration and problem-solving  
@@ -85,8 +87,8 @@ Useful preparation might include:
 
 ---
 
-## Partner(s) and Sponsor(s)  
+<!-- ## Partner(s) and Sponsor(s)  
 - **Jeff Siarto** - Director UX Design, Department of Media and Information
 - **Dr. John Mitchell** - Henry Ford Health
 - **Dr. Addie Thomson** - Department of Plant and Microbial Sciences
-- **Dr. Nate Haut** — Department of Computational Mathematics, Science and Engineering, Michigan State University
+- **Dr. Nate Haut** — Department of Computational Mathematics, Science and Engineering, Michigan State University -->

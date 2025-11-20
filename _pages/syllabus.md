@@ -13,20 +13,11 @@ toc:
 # Vertically Integrated Projects (VIP) Program
 
 ## Course Information
-- **Course Title:** Vertically Integrated Projects (VIP)
-- **Course Number:** VIP XXX (Variable, based on department)
-- **Credits:** 1–3 per semester (repeatable)
+Multiple sections of the course are being offered by different instructors.  [Please see individual team Lab pages for team specific information](.//VIP_website/labs/).
+
+- **Credits:** 1–2 per semester (repeatable)
 - **Prerequisites:** Instructor approval; prior related coursework preferred but not required
-- **Meeting Times:** Weekly team meetings (time set by faculty mentor)
-- **Location:** Lab/Project Space or Online (as determined by mentor)
 
----
-
-## Instructor & Contact Information
-- **Faculty Mentor:** [Name, Title, Department]
-- **Email:** [Email]
-- **Office Hours:** By appointment
-- **Graduate/Team Leads:** Assigned per project team
 
 ---
 
@@ -47,11 +38,10 @@ By the end of this course, students will:
 
 ## Structure & Expectations
 - **Team Meetings:** Weekly check-ins with faculty mentor and sub-team leads.
-- **Work Contribution:** ~3 hours per week per credit hour (e.g., 6–9 hours for 2–3 credits).
+- **Work Contribution:** ~3 hours per week per credit hour (e.g., 3–6 hours for 1–2 credits).
 - **Deliverables:** May include design documents, prototypes, reports, datasets, publications, or outreach materials.
-- **Documentation:** Students must maintain a project log or Git repository.
+- **Documentation:** Students must maintain a personal project log.
 
----
 
 ---
 
@@ -63,7 +53,7 @@ By the end of this course, students will:
 | Week 1         | Introductions. Overview of teams’ work. Discussion of semester goals.               |
 | Week 2         | Sub-team selections finalized. Sub-team meeting times finalized.                    |
 | Week 7         | Midterm grades due. Web-based peer reviews released. Design notebooks collected for mid-term grading. |
-| Week 10        | VIP Innovation Showcase (MSU equivalent).                                           |
+| Week 10        | Integrated VIP Project Showcase.                                           |
 | Dead Week      | Final presentations. Peer reviews due at 4 PM Tuesday. Design notebooks collected for final grading. |
 | Finals Week    | No final exam. No assignments.                                                      |
 
@@ -71,7 +61,7 @@ By the end of this course, students will:
 ---
 
 ## Grading
-The premise of VIP is teamwork. Like a real-world research and development environment, students work on different aspects of the project, contribute at different levels, and enroll for different credits (1–3). Your grade is based on three areas, along with three requirements. Students must show achievements in all areas below.
+The premise of VIP is teamwork. Like a real-world research and development environment, students work on different aspects of the project, contribute at different levels, and enroll for different credits (1–2). Your grade is based on three areas, along with three requirements. Students must show achievements in all areas below.
 
 
 **1. Documentation and Records (33%)**
@@ -153,6 +143,13 @@ If you are feeling ill or have tested positive for COVID-19 and have questions:
 
 ---
 
+## Intellectual Property Agreements
+All Virtually Integrated Sections and teams work on projects lead by MSU Faculty.  Students volunteering to join the teams are required to share appropriatly in in any discoveries.  ***Students are required to sign*** the following standard Intellecutal Property agreement in order to participate on the team and get credit for the course:
+
+- [Link to standard template](./assets/pdf/MSU_Student_Intellectual_Property_Agreement_VIP_template.docx)
+
+---
+
 ## Commercialized Lecture Notes
 Commercialization of lecture notes and university-provided course materials is **not permitted** in this course.
 
@@ -178,11 +175,6 @@ Details available at: [MSU Academic Calendar](https://reg.msu.edu/ROInfo/Calenda
 
 ## Religious Observance
 MSU permits students, faculty, and staff to observe holidays of their chosen faith. If you wish to be absent from class for religious observance, make arrangements in advance with your instructor.
-
----
-
-## Final Exam Policy
-Details available at: [Final Exam Policy](https://reg.msu.edu/ROInfo/Calendar/FinalExam.aspx)
 
 ---
 
