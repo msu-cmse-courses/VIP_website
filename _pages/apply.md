@@ -32,6 +32,6 @@ By participating in VIP, you’ll gain hands-on experience, earn course credit, 
 
 <div align="center">
   
-<a href="https://forms.office.com/r/F9cYjq3Yk8"><strong>APPLY NOW**</strong></a>
+<a href="https://forms.office.com/r/F9cYjq3Yk8"><strong>**APPLY NOW**</strong></a>
   
 </div>    
