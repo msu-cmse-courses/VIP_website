@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/VIP_website/faculty/";
           },
         },{id: "dropdown-syllabus",
-              title: "syllabus",
+              title: "Syllabus",
               description: "",
               section: "Dropdown",
               handler: () => {
