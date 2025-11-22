@@ -85,7 +85,7 @@ Useful preparation might include:
 
 ## Meeting Schedule & Location
 
-- **Meeting Time:** TBD
+- **Meeting Time:** Tuesdays from 9:10am-10:00am in EB 1202
 - **Location:** Contact Dr. Colbry (colbrydi@msu.edu) for room location or Zoom link
 
 ---
