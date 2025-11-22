@@ -15,7 +15,7 @@ toc:
 
 ## Course Information
 
-Multiple sections of the course are being offered by different instructors. [Please see individual team Lab pages for team specific information](https://msu-cmse-courses.github.io/VIP_website/labs/).
+Multiple sections of the course are being offered by different instructors. [Please see individual team pages for team specific information](https://msu-cmse-courses.github.io/VIP_website/teams/).
 
 - **Credits:** 1–2 per semester (repeatable)
 - **Prerequisites:** Instructor approval; prior related coursework preferred but not required

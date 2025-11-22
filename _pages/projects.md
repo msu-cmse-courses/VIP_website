@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Labs
-permalink: /labs/
-description: Labs offering VIP courses.
+title: Teams
+permalink: /teams/
+description: VIP Teams.
 nav: true
 nav_order: 3
 #display_categories: [work, fun]
