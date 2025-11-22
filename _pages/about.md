@@ -34,7 +34,7 @@ Currently, VIP includes 50+ universities across 13 countries, each adapting the 
 
 ## VIP at MSU
 
-At MSU, VIP program started in the spring semester of 2026 through the efforts of Dirk Colbry, Brian Keas and Jeff Siarto.
+At MSU, VIP program started in the spring semester of 2026 through the efforts of Dirk Colbry, Jeff Siarto and Brian Keas.
 
 # Vertically Integrated Projects
 
