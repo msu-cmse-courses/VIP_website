@@ -19,6 +19,8 @@ author: "Dirk Colbry"
 
 SEE-Insight is a VIP team focused on the **development of computational tools to accelerate scientific exploration**. Our mission is to empower researchers by creating intelligent systems that support discovery across a wide range of scientific domains. We aim to reduce the time and effort required for exploratory analysis by leveraging cutting-edge computational techniques.
 
+[Click hear to go to the SEE-Insight website](https://see-insight.github.io/)
+
 ---
 
 ## Issues Involved or Addressed
