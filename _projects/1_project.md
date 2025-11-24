@@ -9,13 +9,7 @@ importance: 1
 author: "Dirk Colbry"
 ---
 
-## Timeline & Partners
-
-**Year(s):** 2025 – Present
-
----
-
-## Goals
+#### SEE-Insight (Smart Exploration & Experimentation - Intelligent Navigation of Systems, Innovation and Generative High-Performance Tools)
 
 SEE-Insight is a VIP team focused on the **development of computational tools to accelerate scientific exploration**. Our mission is to empower researchers by creating intelligent systems that support discovery across a wide range of scientific domains. We aim to reduce the time and effort required for exploratory analysis by leveraging cutting-edge computational techniques.
 
@@ -24,7 +18,7 @@ SEE-Insight is a VIP team focused on the **development of computational tools to
 ---
 
 ## Issues Involved or Addressed
-
+We help research labs across the university "Make research go faster" by devleoping high performace software tools that address common problems such as:
 - Bottlenecks in early-stage scientific exploration
 - Lack of adaptable tools for diverse research workflows
 - Challenges in evaluating and refining computational models
@@ -55,7 +49,7 @@ Technologies used include:
 
 ---
 
-## Academic Majors of Interest
+## Areas of Interest
 
 - Computer Science
 - Data Science
@@ -64,8 +58,7 @@ Technologies used include:
 - Biology
 - Medical Imaging
 - Artificial Intelligence
-- Linguistics
-
+- [Other relevant majors]
 ---
 
 ## Preferred Interests and Preparation
