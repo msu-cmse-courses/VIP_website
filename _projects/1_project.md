@@ -63,6 +63,7 @@ Technologies used include:
 - Medical Imaging
 - Artificial Intelligence
 - [Other relevant majors]
+
 ---
 
 ## Preferred Interests and Preparation
