@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DUX Lab
+title: "DUX Lab"
 permalink: /dux/
 description: "Led by Jeff Siarto"
 importance: 1
@@ -10,7 +10,7 @@ related_publications: true
 
 # Design & User Experience Lab (DUX)
 
-The **Design and User Experience Lab (DUX)** is an upstart community of designers and developers at Michigan State University. It’s the organizational home of the UXMS program capstone and a place where students can come together with faculty and corporate partners to build new user interfaces
+The **Design and User Experience Lab (DUX)** is a community of designers and developers at Michigan State University. It’s the organizational home of the UXMS program capstone and a place where students can come together with faculty and corporate partners to build new user interfaces
 
 ---
 
@@ -69,5 +69,6 @@ Students with experience or interest in the following areas will thrive in DUX:
 
 - **Jeff Siarto** — Department of Media Arts, Interim Director UXMS Program
 
-
 ----
+
+

@@ -5,17 +5,21 @@ permalink: /see-insight/
 description: "Led by Dirk Colbry"
 img: assets/img/see_insight.jpg
 importance: 1
-
-author: "Dirk Colbry"
 ---
 
-#### SEE-Insight (Smart Exploration & Experimentation - Intelligent Navigation of Systems, Innovation and Generative High-Performance Tools)
+# Smart Exploration & Experimentation - Intelligent Navigation of Systems, Innovation and Generative High-Performance Tools (SEE-Insight)
 
 SEE-Insight is a VIP team focused on the **development of computational tools to accelerate scientific exploration**. Our mission is to empower researchers by creating intelligent systems that support discovery across a wide range of scientific domains. We aim to reduce the time and effort required for exploratory analysis by leveraging cutting-edge computational techniques.
 
 [Click hear to go to the SEE-Insight website](https://see-insight.github.io/)
 
 ---
+Advancing scientific data understanding through intelligent, high-performance tools.
+* Develops user-guided systems for data annotation and exploration workflows
+* Integrates machine learning, genetic search and generative models (ex LLMs)
+* Supports transparent and reproducible scientific workflows
+* Applies methods across science and engineering applications
+* Leverages high-performance computing for scalable experimentation and discovery
 
 ## Issues Involved or Addressed
 We help research labs across the university "Make research go faster" by devleoping high performace software tools that address common problems such as:
