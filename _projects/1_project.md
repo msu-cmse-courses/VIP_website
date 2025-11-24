@@ -79,7 +79,7 @@ Useful preparation might include:
 - Interest in scientific exploration and problem-solving
 - Openness to working with computational tools and learning new technologies
 - Experience or coursework in areas like programming, machine learning, or data science (helpful but not required)
-- Enthusiasm for contributing to a diverse and interdiscipl
+- Enthusiasm for contributing to a diverse and interdisciplanry team 
 
 ---
 
