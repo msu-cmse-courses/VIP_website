@@ -44,7 +44,7 @@ VIP is offered as a **project-based course** (1–2 credits per semester) for **
 Experience is **not required** — only a willingness to learn, collaborate, and contribute to meaningful research.
 
 
-Visit the [**VIP Labs Page →**](./projects.md) to explore current projects and go to the [**Apply →**](./apply.md)
+Visit the [**VIP Labs Page →**]({% link _pages/projects.md %}) to explore current projects and go to the [**Apply →**]({% link _pages/apply.md %})
 
 
 Faculty intersted in running their own VIP should contact [Brian Keas](mailto:bkeas@msu.edu) for more information.
