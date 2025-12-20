@@ -13,7 +13,4 @@ children:
   - title: divider
   - title: Peer Evaluation
     permalink: /peer_evaluation/
-  - title: divider
-  - title: People
-    permalink: /people/
 ---
