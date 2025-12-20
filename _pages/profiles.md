@@ -14,7 +14,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     content: dirk.md
   - align: left
-    image: jeff.jpg
+    image: jeff.jpeg
     content: jeff.md
     image_circular: false # crops the image to make it circular
     
