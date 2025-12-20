@@ -25,9 +25,10 @@ $max-content-width: {{ site.max_width }};
 ;
 .site-banner {
   width: 100%;
-  height: 180px;
+  height: 90px;
   background-color: #18453B; /* MSU green */
   display: flex;
+  position: relative;
   align-items: center;
   justify-content: center;
   margin-bottom: 2rem;
