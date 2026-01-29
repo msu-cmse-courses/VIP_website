@@ -155,7 +155,7 @@ If you are feeling ill or have tested positive for COVID-19 and have questions:
 
 All Virtually Integrated Sections and teams work on projects lead by MSU Faculty. Students volunteering to join the teams are required to share appropriatly in in any discoveries. **_Students are required to sign_** the following standard Intellecutal Property agreement in order to participate on the team and get credit for the course:
 
-- [Link to standard template](.//VIP_website/assets/pdf/MSU_Student_Intellectual_Property_Agreement_VIP_template.docx)
+- [Link to standard template](../assets/pdf/MSU_Student_Intellectual_Property_Agreement_VIP_template.docx)
 
 ---
 
