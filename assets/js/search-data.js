@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/VIP_website/faculty/";
           },
-        },{id: "nav-vip-instructors",
-          title: "VIP Instructors",
-          description: "Faculty leading the Vertically Integrated Projects (VIP) Program",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/VIP_website/people/";
-          },
         },{id: "dropdown-syllabus",
               title: "Syllabus",
               description: "",
@@ -51,16 +44,21 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/VIP_website/peer_evaluation/";
               },
-            },{id: "projects-see-insight",
-          title: 'SEE-Insight',
-          description: "Led by Dirk Colbry",
-          section: "Projects",handler: () => {
-              window.location.href = "/VIP_website/see-insight/";
-            },},{id: "projects-dux-lab",
+            },{id: "projects-dux-lab",
           title: 'DUX Lab',
           description: "Led by Jeff Siarto",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/dux/";
+            },},{id: "projects-health-communication-amp-community-research",
+          title: 'Health Communication &amp;amp; Community Research',
+          description: "Led by Mengyan Ma",
+          section: "Projects",handler: () => {
+              window.location.href = "/VIP_website/health-communication-community-research/";
+            },},{id: "projects-see-insight",
+          title: 'SEE-Insight',
+          description: "Led by Dirk Colbry",
+          section: "Projects",handler: () => {
+              window.location.href = "/VIP_website/see-insight/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
