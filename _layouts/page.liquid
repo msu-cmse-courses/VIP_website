@@ -15,6 +15,15 @@ layout: default
   </header>
 
   <article>
+
+{% assign proj_image = page.image | default: page.img %}
+
+{% if proj_image %}
+  <img src="{{ proj_image | relative_url }}" 
+       alt="project image"
+       style="float:right; max-width:300px; margin:0 0 1rem 1rem;">
+{% endif %}
+
     {{ content }}
   </article>
 

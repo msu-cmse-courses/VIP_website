@@ -13,7 +13,7 @@ SEE-Insight is a VIP team focused on the **development of computational tools to
 
 [Click hear to go to the SEE-Insight website](https://see-insight.github.io/)
 
----
+
 Advancing scientific data understanding through intelligent, high-performance tools.
 * Develops user-guided systems for data annotation and exploration workflows
 * Integrates machine learning, genetic search and generative models (ex LLMs)
@@ -21,12 +21,17 @@ Advancing scientific data understanding through intelligent, high-performance to
 * Applies methods across science and engineering applications
 * Leverages high-performance computing for scalable experimentation and discovery
 
+---
+
+
 ## Issues Involved or Addressed
 We help research labs across the university "Make research go faster" by devleoping high performace software tools that address common problems such as:
 - Bottlenecks in early-stage scientific exploration
 - Lack of adaptable tools for diverse research workflows
 - Challenges in evaluating and refining computational models
 - Need for scalable and intelligent automation in research
+
+---
 
 ## Methods and Technologies
 
@@ -49,6 +54,8 @@ Technologies used include:
 - Markdown for documentation
 - Python and Jupyter Notebooks
 
+---
+
 ## Areas of Interest
 
 - Computer Science
@@ -59,6 +66,9 @@ Technologies used include:
 - Medical Imaging
 - Artificial Intelligence
 - \[Other relevant majors\]
+
+
+--- 
 
 ## Preferred Interests and Preparation
 
@@ -75,11 +85,15 @@ Useful preparation might include:
 - Experience or coursework in areas like programming, machine learning, or data science (helpful but not required)
 - Enthusiasm for contributing to a diverse and interdisciplanry team 
 
+
+---
+
 ## Meeting Schedule & Location
 
 - **Meeting Time:** Tuesdays from 9:10am-10:00am in EB 1202
 - **Location:** Contact Dr. Colbry (colbrydi@msu.edu) for room location or Zoom link
 
+---
 
 ## Team Advisor
 

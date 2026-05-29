@@ -15,6 +15,8 @@ Mengyan’s team focuses on exploring challenges in health promotion and designi
 
 Students on this team will engage in a full research lifecycle, starting with exploring ideas and identifying meaningful questions in health communication, and progressing through study design, data collection, and analysis. Along the way, students will develop skills in literature review, research methods, and collaborative problem solving, while gaining hands on experience working with real data and community focused research challenges. As projects mature, students may also have opportunities to present their work, contribute to publications, and build professional skills in communication, teamwork, and research dissemination. The exact path will vary based on student interests and project direction.
 
+---
+
 ## Methods and Technologies
 
 The team primarily focuses on survey research, interviews, and focus groups. Based on students’ research interests, the advisor will recommend the most appropriate and feasible method for conducting the study. Students will learn how to design survey questions, interview protocols, and/or focus group guides, as well as how to conduct pilot studies to test and refine research instruments before implementing the main study. Participant recruitment strategies will also be discussed throughout the research process.
@@ -28,6 +30,9 @@ Members of our team will learn and use the following tools and technolgy:
 - Whisper for audio transcription and interview/focus group data preparation
 - SPSS and Excel for quantitative data analysis
 
+
+---
+
 ## Areas of Interest
 
 - Eating behaviors and nutrition
@@ -36,9 +41,11 @@ Members of our team will learn and use the following tools and technolgy:
 - Food advertising and influencer marketing
 - Advertising directed toward children
 - Advertising ethics
-- \[Other relevant majors\]
 
 \***Students are strongly encouraged to explore and propose their own research interests related to health communication, family communication, advertising, media effects, and other related areas.
+
+
+---
 
 ## Preferred Interests and Preparation
 
@@ -53,11 +60,16 @@ Useful preparation and qualities may include:
 - Respect for diversity in academic backgrounds, cultures, personal values, hobbies, and opinions within the team
 - Openness to collaboration, feedback, and continuous learning
 
-### Meeting Schedule & Location
+
+---
+
+## Meeting Schedule & Location
 
 - **Meeting Time:** Thursdays from 10:30–11:30am
 - **Location:** Will be shared before or on the first day of the semester.
 
-### Team Advisor
+---
+
+## Team Advisor
 
 - **Dr. Mengyan Ma** — Department of Advertising and Public Relations, College of Communication Arts and Sciences, Michigan State University
