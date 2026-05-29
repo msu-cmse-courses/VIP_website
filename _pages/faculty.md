@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /faculty/
-title: Faculty
+title: For Faculty
 description: Information about the faculty
 nav: true
 nav_order: 6
 ---
-
-
 
 
 The **Vertically Integrated Projects (VIP) Program at Michigan State University** enables faculty to build large, multidisciplinary student teams aligned with both **faculty research goals** and **student interests**.  
