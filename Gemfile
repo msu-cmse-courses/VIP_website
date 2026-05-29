@@ -36,3 +36,8 @@ group :other_plugins do
     # gem 'unicode_utils' -- should be already installed by jekyll
     # gem 'webrick' -- should be already installed by jekyll
 end
+
+gem "kramdown-parser-gfm", "~> 1.1"
+
+gem "bundle", "~> 0.0.1"
+gem "add", "~> 0.3.2"
