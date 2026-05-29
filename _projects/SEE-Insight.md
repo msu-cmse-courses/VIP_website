@@ -28,8 +28,6 @@ We help research labs across the university "Make research go faster" by devleop
 - Challenges in evaluating and refining computational models
 - Need for scalable and intelligent automation in research
 
----
-
 ## Methods and Technologies
 
 Our research consistently revolves around the following themes:
@@ -51,8 +49,6 @@ Technologies used include:
 - Markdown for documentation
 - Python and Jupyter Notebooks
 
----
-
 ## Areas of Interest
 
 - Computer Science
@@ -62,9 +58,7 @@ Technologies used include:
 - Biology
 - Medical Imaging
 - Artificial Intelligence
-- [Other relevant majors]
-
----
+- \[Other relevant majors\]
 
 ## Preferred Interests and Preparation
 
@@ -81,20 +75,16 @@ Useful preparation might include:
 - Experience or coursework in areas like programming, machine learning, or data science (helpful but not required)
 - Enthusiasm for contributing to a diverse and interdisciplanry team 
 
----
-
 ## Meeting Schedule & Location
 
 - **Meeting Time:** Tuesdays from 9:10am-10:00am in EB 1202
 - **Location:** Contact Dr. Colbry (colbrydi@msu.edu) for room location or Zoom link
 
----
 
 ## Team Advisor
 
 - **Dr. Dirk Colbry** — Department of Computational Mathematics, Science and Engineering, Michigan State University
 
----
 
 <!-- ## Partner(s) and Sponsor(s)
 - **Jeff Siarto** - Director UX Design, Department of Media and Information

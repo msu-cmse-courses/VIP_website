@@ -23,23 +23,59 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 
 ---
-
 ## The VIP Model
 
-The Vertically Integrated Projects (VIP) Program is a nonprofit alliance of colleges and universities that engages students in long-term, large-scale, faculty-led research.
+The Vertically Integrated Projects (VIP) Program is a nonprofit alliance of colleges and universities that engages students in long-term, faculty-led academic work. Unlike traditional courses, VIP emphasizes sustained involvement, allowing students to contribute to projects that grow and evolve over time.
 
 ## The VIP Consortium
 
-Currently, VIP includes 50+ universities across 13 countries, each adapting the model in its own way to fit their institutional culture. Students from all backgrounds from STEM to Humanities are encouraged to participate. Look at the [Vertically Integrated Projects Consortium](https://www.vip-consortium.org/) for more information.
+VIP includes 50+ universities across 13 countries, each adapting the model to fit its institutional culture. Students from all academic backgrounds—from STEM to the humanities—are encouraged to participate. Learn more at the [Vertically Integrated Projects Consortium](https://www.vip-consortium.org/).
 
 ## VIP at MSU
 
-At MSU, VIP program started in the spring semester of 2026 through the efforts of Dirk Colbry, Jeff Siarto and Brian Keas.
+The VIP program at Michigan State University launched in Spring 2026 through the efforts of Dirk Colbry, Jeff Siarto, and Brian Keas. The program connects undergraduate students with interdisciplinary, faculty-led teams.
 
-# Vertically Integrated Projects
+## What to Expect in VIP
 
-The Vertically Integrated Projects at Michigan State University connects undergraduate students from all disciplines to long-term research led by faculty and graduate students. Students can earn academic credit simultaneously in MSU's VIP program. Faculty and graduate mentors can gain valuable support and insights by letting students take variety of roles across multidisciplinary teams.
+VIP is designed as a multi-semester experience. Students enroll one semester at a time (typically earning about one credit per semester), but the greatest benefits come from continued participation across multiple semesters.
 
-This is an unconventional course where students gain hands-on experience in collaborative, faculty driven projects from diverse backgrounds. These projects can last three semester which will be a total of 6 credits. Faculty members leading projects are departments of Computational Mathematics, Science and Engineering (CMSE), Electrical and Computer Engineering (ECE).
+Over time, students can:
+- Build deeper expertise in an academic area  
+- Contribute to meaningful, long-term projects  
+- Develop strong relationships with faculty, graduate mentors, and peers  
+- Take on increasing responsibility within their team  
 
-Students interested in VIP are encouraged to look at the faculty and the syllabus to see if they are interested.
+Students are encouraged—but not required—to stay with a team across semesters, allowing flexibility while still supporting long-term growth.
+
+## Learning Through Teams
+
+VIP teams are structured to support collaborative learning across experience levels. Newer students work alongside returning members, creating an environment where students learn from one another while contributing to shared goals.
+
+As students gain experience, many choose to take on roles that support their team’s progress—such as organizing work, mentoring new members, or helping guide project direction. These opportunities are flexible and often evolve over time, allowing students to build skills in teamwork, communication, and leadership.
+
+## Who Should Join?
+
+VIP is open to students from all majors and levels of experience. Prior experience is not required.
+
+We value:
+- Curiosity and a willingness to learn  
+- Creative and critical thinking  
+- Openness to collaboration and feedback  
+- Respect for diverse perspectives and backgrounds  
+
+Students who are willing to engage, ask questions, and contribute to a team will find a meaningful place in VIP.
+
+## Why Participate?
+
+VIP provides a unique opportunity to:
+- Gain hands-on experience  
+- Work on real-world problems with interdisciplinary teams  
+- Explore potential career paths and interests  
+- Build professional skills in a supportive environment  
+
+## Getting Started
+
+Students interested in joining VIP are encouraged to:
+- Explore available [project teams](./teams)  
+- Review the [syllabus](./syllabus)  
+- Connect with faculty team leaders
