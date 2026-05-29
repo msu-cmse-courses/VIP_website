@@ -1,2 +1,2 @@
 all:
-	bundle exec jekyll serve --source . --destination docs
+	bundle exec jekyll serve --source . --trace --destination docs
