@@ -17,8 +17,6 @@ Students on this team will engage in a full research lifecycle, starting with ex
 
 Students do not need a background in medicine, biology, or nutrition to engage in health communication research. Health communication focuses on understanding and designing persuasive messages that influence people’s perceptions, attitudes, and behaviors related to health. It draws heavily on communication theory, psychology, media, and message design to promote healthier decision-making and outcomes.
 
----
-
 ## Methods and Technologies
 
 The team primarily focuses on survey research, interviews, and focus groups. Based on students’ research interests, the advisor will recommend the most appropriate and feasible method for conducting the study. Students will learn how to design survey questions, interview protocols, and/or focus group guides, as well as how to conduct pilot studies to test and refine research instruments before implementing the main study. Participant recruitment strategies will also be discussed throughout the research process.
@@ -33,8 +31,6 @@ Members of our team will learn and use the following tools and technolgy:
 - SPSS and Excel for quantitative data analysis
 
 
----
-
 ## Areas of Interest
 
 - Eating behaviors and nutrition
@@ -45,9 +41,6 @@ Members of our team will learn and use the following tools and technolgy:
 - Advertising ethics
 
 \***Students are strongly encouraged to explore and propose their own research interests related to health communication, family communication, advertising, media effects, and other related areas.
-
-
----
 
 ## Preferred Interests and Preparation
 
@@ -63,14 +56,11 @@ Useful preparation and qualities may include:
 - Openness to collaboration, feedback, and continuous learning
 
 
----
-
 ## Meeting Schedule & Location
 
 - **Meeting Time:** Thursdays from 10:30–11:30am
 - **Location:** Will be shared before or on the first day of the semester.
 
----
 
 ## Team Advisor
 

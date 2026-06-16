@@ -12,8 +12,6 @@ related_publications: true
 
 The **Design and User Experience Lab (DUX)** is a community of designers and developers at Michigan State University. It’s the organizational home of the UXMS program capstone and a place where students can come together with faculty and corporate partners to build new user interfaces
 
----
-
 
 The DuX Lab tackles challenges related to creating intuitive, accessible, and engaging user interfaces. Our projects often address:
 - Improving usability and accessibility in healthcare and education systems.
@@ -21,8 +19,6 @@ The DuX Lab tackles challenges related to creating intuitive, accessible, and en
 - Exploring emerging patterns for AI-driven user interfaces.
 - Bridging gaps between research insights and practical design solutions.
 
-
----
 
 ## Methods and Technologies
 
@@ -33,7 +29,6 @@ The DuX Lab tackles challenges related to creating intuitive, accessible, and en
 - **Data Visualization & Interaction Design**
 - **AI/LLM Interface Exploration**
 
----
 
 ## Areas of Interest
 
@@ -45,8 +40,6 @@ The DuX Lab tackles challenges related to creating intuitive, accessible, and en
 - Engineering
 - [Other relevant majors]
 
----
-
 ## Preferred Interests and Preparation
 
 Students with experience or interest in the following areas will thrive in DUX:
@@ -56,19 +49,16 @@ Students with experience or interest in the following areas will thrive in DUX:
 - Strong communication and collaboration skills for working with interdisciplinary teams.
 
 
----
 
 ## Meeting Schedule & Location
 
 - **Meeting Time:** To be determined based on accepted student input
 - **Location:** To be determined based on accepted student input
 
----
 
 ## Team Advisors
 
 - **Jeff Siarto** — Department of Media Arts, Interim Director UXMS Program
 
-----
 
 

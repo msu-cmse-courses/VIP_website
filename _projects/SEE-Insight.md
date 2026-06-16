@@ -21,7 +21,6 @@ Advancing scientific data understanding through intelligent, high-performance to
 * Applies methods across science and engineering applications
 * Leverages high-performance computing for scalable experimentation and discovery
 
----
 
 
 ## Issues Involved or Addressed
@@ -31,7 +30,6 @@ We help research labs across the university "Make research go faster" by devleop
 - Challenges in evaluating and refining computational models
 - Need for scalable and intelligent automation in research
 
----
 
 ## Methods and Technologies
 
@@ -54,7 +52,6 @@ Technologies used include:
 - Markdown for documentation
 - Python and Jupyter Notebooks
 
----
 
 ## Areas of Interest
 
@@ -67,8 +64,6 @@ Technologies used include:
 - Artificial Intelligence
 - \[Other relevant majors\]
 
-
---- 
 
 ## Preferred Interests and Preparation
 
@@ -86,22 +81,13 @@ Useful preparation might include:
 - Enthusiasm for contributing to a diverse and interdisciplanry team 
 
 
----
-
 ## Meeting Schedule & Location
 
 - **Meeting Time:** Tuesdays from 9:10am-10:00am in EB 1202
 - **Location:** Contact Dr. Colbry (colbrydi@msu.edu) for room location or Zoom link
 
----
 
 ## Team Advisor
 
 - **Dr. Dirk Colbry** — Department of Computational Mathematics, Science and Engineering, Michigan State University
 
-
-<!-- ## Partner(s) and Sponsor(s)
-- **Jeff Siarto** - Director UX Design, Department of Media and Information
-- **Dr. John Mitchell** - Henry Ford Health
-- **Dr. Addie Thomson** - Department of Plant and Microbial Sciences
-- **Dr. Nate Haut** — Department of Computational Mathematics, Science and Engineering, Michigan State University -->
