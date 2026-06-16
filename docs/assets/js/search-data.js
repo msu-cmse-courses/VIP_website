@@ -49,6 +49,11 @@ ninja.data = [{
           description: "Led by Jeff Siarto",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/dux/";
+            },},{id: "projects-mi-diaries",
+          title: 'MI Diaries',
+          description: "Led by Drs. Sneller and Wagner",
+          section: "Projects",handler: () => {
+              window.location.href = "/VIP_website/MI-Diaries/";
             },},{id: "projects-health-communication-amp-community-research",
           title: 'Health Communication &amp;amp; Community Research',
           description: "Led by Mengyan Ma",
