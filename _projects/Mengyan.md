@@ -5,7 +5,14 @@ permalink: /health-communication-community-research/
 description: "Led by Mengyan Ma"
 img: assets/img/health_communication.png
 importance: 1
+advisors:
+  - name: Dr. Mengyan Ma
+    title: Department of Advertising and Public Relations
+    img: /assets/img/mengya.jpg
+    email: mamengya@msu.edu
+    bio: "Mengyan Ma is an Assistant Professor (Professor of Practice) in the Department of Advertising and Public Relations at Michigan State University with an active research agenda. Before rejoining MSU, she served as a tenure-track Assistant Professor in the Department of Communication and Journalism at University of Wisconsin–Eau Claire from 2021 to 2024. Her research examines the intersection of health, technology, and family communication using mixed methods approaches. As principal investigator, Mengyan received a Trifecta Grant to support interdisciplinary research on influencer marketing of cannabis-infused beverages, with the goal of informing media literacy campaigns, family education, public health initiatives, and regulatory discussions. Her scholarship has been published in journals including Telemedicine and e-Health, International Journal of Communication, Social Media + Society, Health Communication, Journal of Family Communication, Journal of Social and Personal Relationships, and Journal of Advertising Education, among others."
 ---
+
 
 
 
@@ -60,8 +67,3 @@ Useful preparation and qualities may include:
 
 - **Meeting Time:** Thursdays from 10:30–11:30am
 - **Location:** Will be shared before or on the first day of the semester.
-
-
-## Team Advisor
-
-- **Dr. Mengyan Ma** — Department of Advertising and Public Relations, College of Communication Arts and Sciences, Michigan State University

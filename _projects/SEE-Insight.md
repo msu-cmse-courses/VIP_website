@@ -5,6 +5,12 @@ permalink: /see-insight/
 description: "Led by Dirk Colbry"
 img: assets/img/see_insight.jpg
 importance: 1
+advisors:
+  - name: Dr. Dirk Colbry
+    title: Department of Computational Mathematics, Science and Engineering, Michigan State University
+    email: colbrydi@msu.edu
+    img: /assets/img/dirk.jpg
+    bio: "Dr. Dirk Colbry is a Senior Specialist in the Department of Computational Mathematics, Science and Engineering at Michigan State University. He has a background in computer science with expertise in machine vision, pattern recognition, and scientific image analysis. His work emphasizes developing computational tools that support interdisciplinary research across science and engineering domains. Dr. Colbry leads the SEE-Insight Lab, guiding research on exploratory and intelligent image understanding. In this role, he also mentors students and researchers while shaping the lab’s research direction and collaborative culture."
 ---
 
 # Smart Exploration & Experimentation - Intelligent Navigation of Systems, Innovation and Generative High-Performance Tools (SEE-Insight)
@@ -85,9 +91,3 @@ Useful preparation might include:
 
 - **Meeting Time:** Tuesdays from 9:10am-10:00am in EB 1202
 - **Location:** Contact Dr. Colbry (colbrydi@msu.edu) for room location or Zoom link
-
-
-## Team Advisor
-
-- **Dr. Dirk Colbry** — Department of Computational Mathematics, Science and Engineering, Michigan State University
-

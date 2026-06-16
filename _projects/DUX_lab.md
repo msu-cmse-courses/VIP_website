@@ -5,7 +5,12 @@ permalink: /dux/
 description: "Led by Jeff Siarto"
 importance: 1
 img: assets/img/duk.png
-related_publications: true
+advisors:
+  - name: Jeff Siarto
+    title: UXMS Interim Director, College of Communications Arts and Sciences
+    email: siartoje@msu.edu
+    img: /assets/img/jeff.jpeg
+    bio: "Jeff Siarto is a Professor of Practice in the Department of Media and Information at Michigan State University and currently serves as the Interim Director of the MSU User Experience (UXMS) program. He focuses on user-centered design and applied UX education, guiding students to think critically about usability and accessibility. As the lead of the Design & User Experience (DUX) Lab, he mentors interdisciplinary student teams working on real-world projects. Within the VIP program, he supports DUX teams by shaping design workflows and fostering collaborative, human-centered solutions. His leadership bridges academic learning with practical UX practice."
 ---
 
 # Design & User Experience Lab (DUX)
@@ -54,11 +59,4 @@ Students with experience or interest in the following areas will thrive in DUX:
 
 - **Meeting Time:** To be determined based on accepted student input
 - **Location:** To be determined based on accepted student input
-
-
-## Team Advisors
-
-- **Jeff Siarto** — Department of Media Arts, Interim Director UXMS Program
-
-
 

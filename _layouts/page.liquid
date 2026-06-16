@@ -25,6 +25,16 @@ layout: default
 {% endif %}
 
     {{ content }}
+
+    {% if page.advisors %}
+
+        {% assign advisor_count = page.advisors | size %}
+
+          <h2>
+            Team Advisor{% if advisor_count > 1 %}s{% endif %}
+          </h2>
+        {% include advisors.liquid %}
+    {% endif %}
   </article>
 
   {% comment %}

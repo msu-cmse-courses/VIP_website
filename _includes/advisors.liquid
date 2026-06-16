@@ -1,0 +1,25 @@
+{% if page.advisors %}
+  {% assign advisor_count = page.advisors | size %}
+
+  <div class="advisor-list advisor-count-{{ advisor_count }}">
+    {% for advisor in page.advisors %}
+      <div class="advisor-card">
+        
+        {% if advisor.img %}
+          <img src="{{ advisor.img | relative_url }}"
+               alt="{{ advisor.name }}"
+               style="float:right; max-width:200px; margin:0 0 1rem 1rem;">
+        {% endif %}
+
+        <div class="advisor-info">
+          <strong>{{ advisor.name }}</strong><br>
+          <em>{{ advisor.title }}</em><br>
+          {% if advisor.email %}
+            <a href="mailto:{{ advisor.email }}">{{ advisor.email }}</a><br>
+          {% endif %}
+          <p>{{ advisor.bio }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}

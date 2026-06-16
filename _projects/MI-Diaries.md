@@ -5,8 +5,12 @@ permalink: /MI-Diaries/
 description: "Led by Drs. Sneller and Wagner"
 img: assets/img/MI-Diaries.png
 importance: 1
+advisors:
+  - name: Dr. Betsy Sneller
+    title: Department of Linguistics, Languages, and Cultures, Michigan State University
+  - name: Dr. Suzanne Wagner
+    title: Department of Linguistics, Languages, and Cultures, Michigan State University
 ---
-
 
 
 ## Documenting changes in the lives and language of people living in Michigan
@@ -112,9 +116,3 @@ Useful qualities include:
     - Subteams might also require regular or ad hoc meetings on Teams, but these will be arranged to suit all relevant members.
 - **Location:** Will be shared before or on the first day of the semester.
 
-## Team Advisors
-
-- **Dr. Betsy Sneller** — Department of Linguistics, Languages, and Cultures,
-Michigan State University
-- **Dr. Suzanne Wagner** — Department of Linguistics, Languages, and Cultures,
-Michigan State University
