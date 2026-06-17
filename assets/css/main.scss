@@ -41,3 +41,26 @@ $max-content-width: {{ site.max_width }};
   margin: 0;
 }
 
+
+.advisor-img {
+  max-width: 200px;
+  border-radius: 8px;
+}
+
+/* Odd advisors → image on right */
+.advisor-card:nth-child(odd) .advisor-img {
+  float: right;
+  margin: 0 0 1rem 1rem;
+}
+
+/* Even advisors → image on left */
+.advisor-card:nth-child(even) .advisor-img {
+  float: left;
+  margin: 0 1rem 1rem 0;
+}
+
+/* prevent layout issues */
+.advisor-card {
+  overflow: auto;
+  margin-bottom: 1.5rem;
+}

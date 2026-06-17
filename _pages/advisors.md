@@ -1,8 +1,20 @@
-{% if page.advisors %}
-  {% assign advisor_count = page.advisors | size %}
+---
+layout: page
+title: Advisors
+permalink: /advisors/
+nav: true
+nav_order: 4
+---
 
-  <div class="advisor-list advisor-count-{{ advisor_count }}">
-    {% for advisor in page.advisors %}
+<div class="advisors">
+
+{% assign sorted_projects = site.projects | sort: "importance" %}
+
+{% for project in sorted_projects %}
+
+  {% if project.advisors %}
+    
+    {% for advisor in project.advisors %}
       <div class="advisor-card">
 
 
@@ -18,9 +30,16 @@
           {% if advisor.email %}
             <a href="mailto:{{ advisor.email }}">{{ advisor.email }}</a><br>
           {% endif %}
+          <br>
+          <em>Link to VIP Team page</em>: <a href="{{ project.url | relative_url }}">{{ project.title }}</a><br>
           <p>{{ advisor.bio }}</p>
         </div>
       </div>
+
     {% endfor %}
-  </div>
-{% endif %}
+
+  {% endif %}
+
+{% endfor %}
+
+</div>
