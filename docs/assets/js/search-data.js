@@ -44,13 +44,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/VIP_website/apply/";
               },
-            },{id: "dropdown-peer-evaluation",
-              title: "Peer Evaluation",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/VIP_website/peer_evaluation/";
-              },
             },{id: "projects-dux-lab",
           title: 'DUX Lab',
           description: "Led by Jeff Siarto",
