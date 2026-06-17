@@ -41,6 +41,7 @@ Members of our team will learn and use the following tools and technolgy:
 ## Areas of Interest
 
 - Eating behaviors and nutrition
+- Mental Health
 - Substance use
 - Vaccination
 - Food advertising and influencer marketing
