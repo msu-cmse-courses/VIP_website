@@ -49,6 +49,11 @@ ninja.data = [{
           description: "Led by Jeff Siarto",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/dux/";
+            },},{id: "projects-icer",
+          title: 'ICER',
+          description: "Led by Craig Grosch",
+          section: "Projects",handler: () => {
+              window.location.href = "/VIP_website/icer/";
             },},{id: "projects-mi-diaries",
           title: 'MI Diaries',
           description: "Led by Drs. Sneller and Wagner",
