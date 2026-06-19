@@ -89,5 +89,6 @@ Useful preparation might include:
 
 ## Meeting Schedule & Location
 
-- **Meeting Time:** Tuesdays from 9:10am-10:00am in EB 1202
+- **Required Meeting Time:** Mondays from 9:00am-10:00am
+    - Subteams might also require regular or ad hoc meetings on Teams, but these will be arranged to suit all relevant members.
 - **Location:** Contact Dr. Colbry (colbrydi@msu.edu) for room location or Zoom link

@@ -9,10 +9,12 @@ advisors:
   - name: Dr. Betsy Sneller
     title: Department of Linguistics, Languages, and Cultures, Michigan State University
     img: assets/img/Sneller.jpg
+    email: sneller7@msu.edu
     bio: "Dr. Betsy Sneller is Associate Professor of Linguistics in the Department of Linguistics, Languages, and Cultures. She is a director of the MSU Sociolinguistics Lab and the lead investigator for the MI Diaries project. Dr. Sneller’s primary research interest is in language variation and change, particularly phonological change (how people’s mental representation of speech sounds changes over the generations)."
   - name: Dr. Suzanne Wagner
     title: Department of Linguistics, Languages, and Cultures, Michigan State University
     img: assets/img/Wagner.jpg
+    email: wagnersu@msu.edu
     bio: "Dr. Suzanne Evans Wagner is Associate Professor of Linguistics in the Department of Linguistics, Languages, and Cultures. She is a director of the MSU Sociolinguistics Lab and the co-lead investigator for the MI Diaries project. Dr. Wagner’s primary research interest is in language change across the lifespan and how it intersects with language change in communities over time."
 ---
 
