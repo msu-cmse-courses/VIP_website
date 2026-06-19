@@ -69,6 +69,11 @@ ninja.data = [{
           description: "Led by Dirk Colbry",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/see-insight/";
+            },},{id: "projects-space-lab",
+          title: 'SpaCE Lab',
+          description: "Led by Dr. Phoebe Zarnetske",
+          section: "Projects",handler: () => {
+              window.location.href = "/VIP_website/space_lab/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
