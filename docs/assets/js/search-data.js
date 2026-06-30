@@ -48,7 +48,7 @@ ninja.data = [{
           title: 'AI companion Relationships',
           description: "Led by Dr. Celeste Campos-Castillo",
           section: "Projects",handler: () => {
-              window.location.href = "/VIP_website/icer/";
+              window.location.href = "/VIP_website/AI_Companion_Relationships/";
             },},{id: "projects-dux-lab",
           title: 'DUX Lab',
           description: "Led by Jeff Siarto",

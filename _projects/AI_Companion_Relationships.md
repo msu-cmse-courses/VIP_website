@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "AI companion Relationships"
-permalink: /icer/
+permalink: /AI_Companion_Relationships/
 description: "Led by Dr. Celeste Campos-Castillo"
 importance: 1
 advisors:
