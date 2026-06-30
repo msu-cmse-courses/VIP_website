@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "AI companion Relationships"
+title: "AI Companion Relationships"
 permalink: /AI_Companion_Relationships/
 description: "Led by Dr. Celeste Campos-Castillo"
+img: assets/img/aicompanionvip.jpg
 importance: 1
 advisors:
   - name: Dr. Celeste Campos-Castillo
     title: Department of Media and Information, Michigan State University
-    email: camposca@msu.edu 
+    email: camposca@msu.edu
+    img: assets/img/Celeste.jpg
     bio: "Dr. Celeste Campos-Castillo is an Associate Professor in the Department of Media and Information at Michigan State University. She has co-authored with high school, undergraduate, and graduate students on research about how technologies shape health and health care outcomes. She regularly publishes in journals within the fields of data science, health policy, medicine, psychology, and public health. Her PhD is in Sociology from the University of Iowa and she completed a post-doctoral research fellowship at Dartmouth College."
 ---
 

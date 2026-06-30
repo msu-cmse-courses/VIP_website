@@ -45,7 +45,7 @@ ninja.data = [{
                 window.location.href = "/VIP_website/apply/";
               },
             },{id: "projects-ai-companion-relationships",
-          title: 'AI companion Relationships',
+          title: 'AI Companion Relationships',
           description: "Led by Dr. Celeste Campos-Castillo",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/AI_Companion_Relationships/";
