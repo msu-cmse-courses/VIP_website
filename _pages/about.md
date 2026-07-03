@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: vip_logo.png
+  image: VIP_name_small_crop.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
