@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 
-The **Vertically Integrated Projects (VIP) Program at Michigan State University** enables faculty to build large, multidisciplinary student teams aligned with both **faculty research goals** and **student interests**.  
+The **Vertically Integrated Projects (VIP) Program at Michigan State University** enables faculty to build large, multidisciplinary student teams aligned with both **faculty academic goals** and **student interests**.  
 
 
 <div style="
@@ -28,18 +28,18 @@ The **Vertically Integrated Projects (VIP) Program at Michigan State University*
 </div>
 
 
-Students who participate across multiple semesters grow into subteam leaders — fostering continuity, knowledge transfer, and reducing the day-to-day management load on faculty mentors.These long-term teams make meaningful contributions to research portfolios and creative work
+Students who participate across multiple semesters grow into subteam leaders — fostering continuity, knowledge transfer, and reducing the day-to-day management load on faculty mentors. These long-term teams make meaningful contributions to student portfolios and creative work
 
 ---
 
 ## Join a Student Team Embedded in Faculty Research
 
-VIP gives students direct access to **faculty-led research**. Unlike traditional undergraduate (or graduate) research, VIP is **team-based and multidisciplinary**.  
+VIP gives students direct access to **faculty-led acadmic work**. Unlike traditional undergraduate (or graduate) research programs, VIP is **team-based and multidisciplinary**.  
 
 Students are encouraged to participate for **multiple semesters**, taking on greater technical and leadership responsibilities as they gain experience.  
 
 VIP is offered as a **project-based course** (1–2 credits per semester) for **sophomores and above**.  
-Experience is **not required** — only a willingness to learn, collaborate, and contribute to meaningful research.
+Experience is **not required** — only a willingness to learn, collaborate, and contribute to meaningful projects.
 
 
 Visit the [**VIP Labs Page →**]({% link _pages/projects.md %}) to explore current projects and go to the [**Apply →**]({% link _pages/apply.md %})
