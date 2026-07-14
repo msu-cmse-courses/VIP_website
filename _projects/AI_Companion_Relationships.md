@@ -77,4 +77,4 @@ Useful preparation and qualities may include:
 ## Meeting Schedule & Location
 
 - **Meeting Time:** Thursdays from 10:00-11:00am
-- **Location:** Contact Dr. Campos-Castillo (camposca@msu.edu) for room location or Zoom link
+- **Location:** Communication Arts and Sciences (CAS) Building, Room 167

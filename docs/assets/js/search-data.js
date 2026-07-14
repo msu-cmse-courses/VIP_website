@@ -54,8 +54,8 @@ ninja.data = [{
           description: "Led by Jeff Siarto",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/dux/";
-            },},{id: "projects-icer",
-          title: 'ICER',
+            },},{id: "projects-institute-for-cyber-enabled-research",
+          title: 'Institute for Cyber-Enabled Research',
           description: "Led by Craig Grosch",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/icer/";
