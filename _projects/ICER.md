@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ICER"
+title: "Institute for Cyber-Enabled Research"
 permalink: /icer/
 description: "Led by Craig Grosch"
 img: assets/img/icer.png
@@ -66,7 +66,7 @@ Please note that you are not expected to have prior experience with these techno
 - Supply chain management 
 - Education 
 - Journalism 
-- Anyone other majors interested in the project! 
+- Any other majors interested in the project! 
 
 ## Preferred Interests and Preparation
 
