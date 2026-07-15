@@ -66,7 +66,7 @@ ninja.data = [{
               window.location.href = "/VIP_website/MI-Diaries/";
             },},{id: "projects-health-communication-amp-community-research",
           title: 'Health Communication &amp;amp; Community Research',
-          description: "Led by Mengyan Ma",
+          description: "Led by Dr. Mengyan Ma",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/health-communication-community-research/";
             },},{id: "projects-see-insight",
