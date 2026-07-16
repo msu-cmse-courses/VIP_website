@@ -38,7 +38,7 @@ VIP gives students direct access to **faculty-led acadmic work**. Unlike traditi
 
 Students are encouraged to participate for **multiple semesters**, taking on greater technical and leadership responsibilities as they gain experience.  
 
-VIP is offered as a **project-based course** (1–2 credits per semester) for **sophomores and above**.  
+VIP is offered as a **project-based course** (1–2 credits per semester) for **sophomores and above** (some teams accept first-year students).  
 Experience is **not required** — only a willingness to learn, collaborate, and contribute to meaningful projects.
 
 

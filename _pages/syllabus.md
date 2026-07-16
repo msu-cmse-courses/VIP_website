@@ -17,7 +17,7 @@ toc:
 
 Multiple sections of the course are being offered by different instructors. [Please see individual team pages for team specific information](https://msu-cmse-courses.github.io/VIP_website/teams/).
 
-- **Credits:** 1–2 per semester (repeatable)
+- **Credits:** 1–2 per semester (repeatable); count as general electives unless you seek specific approval from your major.
 - **Prerequisites:** Instructor approval; prior related coursework preferred but not required
 
 ---
@@ -90,7 +90,7 @@ The premise of VIP is teamwork. Like a real-world research and development envir
 
 ---
 
-Grading Scale (MSU Standard):
+Grading Scale (MSU Standard): VIP courses are offered for numerical grames only; not 'audit', 'credit-no credit' or 'pass-no grade' options.
 
 - 4.0 = Excellent
 - 3.5 = Very Good
@@ -107,7 +107,7 @@ Grading Scale (MSU Standard):
 - **Academic Integrity:** Students are expected to uphold MSU’s policies on academic honesty.
 - **Teamwork:** Collaborative work is central to VIP. Credit will reflect both individual and group contributions.
 - **Attendance:** Consistent participation is required; repeated unexcused absences may lower the final grade.
-- **Continuation:** Students may enroll in VIP for multiple semesters, deepening expertise and leadership roles.
+- **Continuation:** Students may be eligible to enroll in VIP for multiple semesters, deepening expertise and leadership roles.
 
 ---
 
@@ -167,7 +167,7 @@ Commercialization of lecture notes and university-provided course materials is *
 
 ## Academic Honesty
 
-The College of Engineering adheres to MSU’s policies on academic honesty as specified in:
+VIP courses adheres to MSU’s policies on academic honesty as specified in:
 
 - **General Student Regulations 1.0** – Protection of Scholarship and Grades
 - **All-University Policy on Integrity of Scholarship and Grades**
