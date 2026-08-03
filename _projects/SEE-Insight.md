@@ -91,4 +91,4 @@ Useful preparation might include:
 
 - **Required Meeting Time:** Mondays from 9:00am-10:00am
     - Subteams might also require regular or ad hoc meetings on Teams, but these will be arranged to suit all relevant members.
-- **Location:** Contact Dr. Colbry (colbrydi@msu.edu) for room location or Zoom link
+- **Location:** Engineering Building 1502/1503 (CMSE Conference Room) - [Link to Directions](https://cmse.msu.edu/About/directions.aspx)
