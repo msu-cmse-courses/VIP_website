@@ -5,6 +5,7 @@ permalink: /see-insight/
 description: "Led by Dirk Colbry"
 img: assets/img/see_insight.jpg
 importance: 1
+applications: false
 advisors:
   - name: Dr. Dirk Colbry
     title: Department of Computational Mathematics, Science and Engineering, Michigan State University

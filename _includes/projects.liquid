@@ -2,14 +2,21 @@
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
     <div class="card h-100 hoverable">
       {% if project.img %}
-        {%
-          include figure.liquid
-          loading="eager"
-          path=project.img
-          sizes = "250px"
-          alt="project thumbnail"
-          class="card-img-top"
-        %}
+        <div style="position: relative;">
+          {%
+            include figure.liquid
+            loading="eager"
+            path=project.img
+            sizes = "250px"
+            alt="project thumbnail"
+            class="card-img-top"
+          %}
+          {% if project.applications == false %}
+            <div style="position: absolute; top: 12px; left: 12px; z-index: 2; pointer-events: none; background: rgba(92, 10, 18, 0.82); color: #fff; border: 1px solid rgba(255,255,255,0.35); border-radius: 999px; padding: 0.35rem 0.7rem; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; transform: rotate(-12deg); box-shadow: 0 2px 8px rgba(0,0,0,0.22);">
+              Applications closed
+            </div>
+          {% endif %}
+        </div>
       {% endif %}
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>

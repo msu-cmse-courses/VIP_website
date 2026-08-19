@@ -5,6 +5,7 @@ permalink: /icer/
 description: "Led by Craig Grosch"
 img: assets/img/icer.png
 importance: 1
+applications: false
 advisors:
   - name: Dr. Craig Grosch
     title: Institute for Cyber-Enabled Research (ICER), Michigan State University 
