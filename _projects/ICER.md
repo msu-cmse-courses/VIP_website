@@ -90,5 +90,5 @@ Do not worry if you don’t have experience with the skills listed above! We wil
 
 ## Meeting Schedule & Location
 
-- **Meeting Time:** Wednesdays from 4:00-4:50PM
+- **Meeting Time:** Thursdays from 4:00-5:00PM
 - **Location:** 1442 BPS (or virtual in special circumstances)
