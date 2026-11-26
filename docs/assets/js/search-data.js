@@ -84,9 +84,9 @@ ninja.data = [{
           description: "Spatial and Community Ecology Lab   Led by Dr. Phoebe Zarnetske",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/space_lab/";
-            },},{id: "projects-transforming-our-knowing-to-empower-nous-token-lab",
-          title: 'Transforming Our Knowing to Empower Nous (TOKEN) Lab',
-          description: "A VIP team studying how humans learn about and understand artificial intelligence.   Lead by Kou-Herrema and Jonathan Barber and Junlin Yuan",
+            },},{id: "projects-token-lab",
+          title: 'TOKEN Lab',
+          description: "Transforming Our Knowing to Empower Nous (TOKEN) Lab   Led by Tianyi Kou-Herrema, Jonathan Barber, and Junlin Yuan",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/token/";
             },},{
