@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Transforming Our Knowing to Empower Nous (TOKEN) Lab"
+title: "TOKEN Lab"
 permalink: /token/
-description: "A VIP team studying how humans learn about and understand artificial intelligence. <br> <br> Lead by Kou-Herrema and Jonathan Barber and Junlin Yuan"
+description: "Transforming Our Knowing to Empower Nous (TOKEN) Lab <br> <br> Led by Tianyi Kou-Herrema, Jonathan Barber, and Junlin Yuan"
 img: assets/img/token.jpg
-importance: 1
+importance: 2
 applications: True
 advisors:
   - name: Dr. Tianyi Kou-Herrema
