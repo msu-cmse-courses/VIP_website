@@ -24,7 +24,7 @@ advisors:
     bio: "Dr. Junlin Yuan is an Associate Professor of Mechanical Engineering at Michigan State University. She studies turbulence, the chaotic swirling of fluids like air and water, with computer simulations and physics-based models. Her research has been supported by NSF, ONR, and industry. She also uses AI in her research and teaching. With Dr. Kou-Herrema and Jonathan Barber, she leads the Spartan Agentic AI Studio, a free course where MSU students build teams of AI agents."
 ---
 
-# Transforming Our Knowing to Empower Nous (TOKEN) Lab
+## Transforming Our Knowing to Empower Nous (TOKEN) Lab
 
 In ancient Greek, *nous* means intelligence. As artificial intelligence infiltrates life at all levels, we as human beings must utilize our own intelligence to first learn and understand this ever-evolving technology and become able to make decisions by exercising human agency. Here, agency means the performance of intentional action.
 
